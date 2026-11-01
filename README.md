@@ -30,3 +30,6 @@ The servo sweeps the ultrasonic sensor back and forth (15° to 165°). The Ardui
 ## Folder layout
 - `arduino_radar/` - Arduino sketch
 - `radar_display/` - Processing sketch for the laptop display
+
+## License
+MIT - see [LICENSE](LICENSE).
