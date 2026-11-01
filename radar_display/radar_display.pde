@@ -1,6 +1,6 @@
 // Processing sketch: draws the radar sweep from the Arduino's serial data
 // 1. Install Processing from processing.org
-// 2. Upload radar.ino to the Arduino first, then CLOSE the Arduino Serial Monitor
+// 2. Upload arduino_radar/arduino_radar.ino to the Arduino first, then CLOSE the Arduino Serial Monitor
 // 3. Change PORT_INDEX below if the wrong port is picked, then press Run
 
 import processing.serial.*;
