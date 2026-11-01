@@ -19,6 +19,11 @@ Arduino Uno radar system with a servo-mounted ultrasonic sensor, laptop display,
 
 The HC-SR04 is mounted on the servo horn so it sweeps with it.
 
+## Demo
+[![Arduino radar demo](media/demo.gif)](media/demo.mp4)
+
+_Click the preview to open the full video._
+
 ## How it works
 The servo sweeps the ultrasonic sensor back and forth (15° to 165°). The Arduino measures the distance at each angle and sends `angle,distance.` over serial at 9600 baud. The Processing sketch reads that data and draws the radar screen, and the buzzer sounds when an object is closer than 20 cm.
 
