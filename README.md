@@ -37,4 +37,4 @@ The servo sweeps the ultrasonic sensor back and forth (15° to 165°). The Ardui
 - `radar_display/` - Processing sketch for the laptop display
 
 ## License
-MIT - see [LICENSE](LICENSE).
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - see [LICENSE](LICENSE).
